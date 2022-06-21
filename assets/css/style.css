@@ -81,4 +81,8 @@ a.btn.btn-actionUser:hover {
     main.main_container {
         height: 55rem;
     }
+
+    main.main_container.pt2 {
+        height: 60rem;
+    }
 }
