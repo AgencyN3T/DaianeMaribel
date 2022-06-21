@@ -9,16 +9,15 @@
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
+}
+#home {
     height: 100vh;
 }
-
 .box-content {
     margin: 0px auto;
     width: 100%;
     max-width: 680px;
     text-align: center;
-    padding-bottom: 80px;
-    height: 100vh;
 }
 .box-content h2 {
     font-family: 'Poppins';
@@ -76,4 +75,10 @@ a.btn.btn-actionUser:hover {
     color: white;
     font-weight: 600;
     margin-bottom: 20px;
+}
+
+@media (max-width: 567.98px) { 
+    main.main_container {
+        height: 45rem;
+    }
 }
