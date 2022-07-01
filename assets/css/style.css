@@ -48,7 +48,8 @@ a.btn.btn-actionUser:hover {
 .icons-rede_sociais {
     display: flex;
     margin-top: 33px;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 25px;
 }
 .svg-icon {
     width: clamp(65px, 4vw, 75px);
