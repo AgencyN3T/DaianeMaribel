@@ -54,6 +54,7 @@ a.btn.btn-actionUser:hover {
 .box-content__img {
     border: 1px solid #f0808173;
     border-radius: 50%;
+    width: 120px;
 }
 .svg-icon {
     width: clamp(65px, 4vw, 75px);
@@ -61,25 +62,6 @@ a.btn.btn-actionUser:hover {
 .btn.btn-actionUser:focus {
     outline: 0;
     box-shadow: 0 0 0 0.25rem rgb(231 173 245 / 26%);
-}
-
-/* PAGE ETAPA CICATRIZAÇÃO */
-.box-content h3 {
-    font-size: clamp(33px, 3vw, 38px);
-    font-weight: 700;
-    color: white;
-}
-.box-content ul {
-    list-style: decimal;
-    margin-bottom: 15px;
-    margin-top: 18px;
-    text-align: initial;
-}
-.box-content ul li {
-    font-size: clamp(17px, 3vw, 22px);
-    color: white;
-    font-weight: 600;
-    margin-bottom: 20px;
 }
 
 @media (max-width: 567.98px) { 
