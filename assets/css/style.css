@@ -54,7 +54,6 @@ a.btn.btn-actionUser:hover {
 .box-content__img {
     border: 1px solid #f0808173;
     border-radius: 50%;
-    width: 120px;
 }
 .svg-icon {
     width: clamp(65px, 4vw, 75px);
