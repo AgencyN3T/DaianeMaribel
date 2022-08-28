@@ -51,6 +51,10 @@ a.btn.btn-actionUser:hover {
     justify-content: center;
     gap: 25px;
 }
+.box-content__img {
+    border: 1px solid #f0808173;
+    border-radius: 50%;
+}
 .svg-icon {
     width: clamp(65px, 4vw, 75px);
 }
